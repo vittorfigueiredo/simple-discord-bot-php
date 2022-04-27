@@ -23,4 +23,4 @@ $ composer install
 $ php bot.php
 ```
 
-- Go to your server and send 'Hello' and enjoy.
+- Go to your server. Send 'Hi' and enjoy.
